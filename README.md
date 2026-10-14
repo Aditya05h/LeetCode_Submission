@@ -86,3 +86,15 @@ while (!masteredDSA) {
 Still learning.
 Still coding.
 Still occasionally losing 20 minutes to one missing semicolon.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1920-build-array-from-permutation) |
+<!---LeetCode Topics End-->
