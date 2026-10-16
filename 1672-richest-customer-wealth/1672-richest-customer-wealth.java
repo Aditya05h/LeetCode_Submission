@@ -5,9 +5,9 @@ class Solution {
             int runningSum = 0;
             for(int j=0;j<accounts[i].length;j++){
                 runningSum += accounts[i][j];
-                if(runningSum >= maxWealth){
+            }
+            if(runningSum >= maxWealth){
                     maxWealth = runningSum;
-                }
             }
         }
         return maxWealth;
