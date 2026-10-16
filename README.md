@@ -93,6 +93,7 @@ Still occasionally losing 20 minutes to one missing semicolon.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -104,4 +105,8 @@ Still occasionally losing 20 minutes to one missing semicolon.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
