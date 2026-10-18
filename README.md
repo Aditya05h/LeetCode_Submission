@@ -120,6 +120,7 @@ Still occasionally losing 20 minutes to one missing semicolon.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Aditya05h/LeetCode_Submission/tree/master/2235-add-two-integers) |
 ## Counting
 |  |
 | ------- |
