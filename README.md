@@ -95,6 +95,7 @@ Still occasionally losing 20 minutes to one missing semicolon.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1929-concatenation-of-array) |
@@ -111,4 +112,16 @@ Still occasionally losing 20 minutes to one missing semicolon.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
