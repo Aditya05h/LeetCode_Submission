@@ -92,6 +92,7 @@ Still occasionally losing 20 minutes to one missing semicolon.
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@ Still occasionally losing 20 minutes to one missing semicolon.
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -125,4 +127,12 @@ Still occasionally losing 20 minutes to one missing semicolon.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya05h/LeetCode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
